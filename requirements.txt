@@ -1,0 +1,6 @@
+rich
+rstatus
+rich
+requests
+dnspython
+subprocess
